@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # CrudApp
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.26.
@@ -37,3 +38,6 @@ To get more help on the `angular-cli` use `ng help` or go check out the [Angular
 =======
 # angular-class
 >>>>>>> a51419865581fbee4be145a27eec21f92ffdd6fa
+=======
+# angular-project
+>>>>>>> d9ba8639c4e81a10d4ef2b37568da144e10709f9
